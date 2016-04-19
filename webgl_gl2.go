@@ -4,7 +4,7 @@
 
 // +build !netgo,!android
 
-package gl
+package webgl
 
 import (
 	"fmt"

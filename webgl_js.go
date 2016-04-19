@@ -4,7 +4,7 @@
 
 // +build netgo
 
-package gl
+package webgl
 
 import (
 	"errors"
